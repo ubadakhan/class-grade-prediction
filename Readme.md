@@ -8,7 +8,8 @@ This project predicts student performance using various machine learning approac
   - Age
   - Study Time Weekly
   - Absences
-  - GPA (target)
+  - GPA 
+  - GradeClass (target)
 
 
 ## **Exploratory Data Analysis (EDA)**
@@ -44,8 +45,8 @@ Several models were tested:
 ## **Usage**
 Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/ubadakhan/class-grade-prediction.git
+cd class grade prediction
 
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
